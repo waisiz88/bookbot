@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Bookbot is a simple tool that : counts the words containd in a book and the frequency of each characters.
